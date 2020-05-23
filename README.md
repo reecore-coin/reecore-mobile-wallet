@@ -12,13 +12,6 @@
 | ------------- | ------------- |
 | ![](https://github.com/reecore-coin/official-reecore-assets/blob/master/Reecore_ExportPrivKey_s.gif)  | ![](https://github.com/reecore-coin/official-reecore-assets/blob/master/Reecore_Receive_s.gif)  |
 
-## Prerequisites
-
-* NodeJs
-* Android/IOS emulator
-* Install Expo in the emulator
-* [Backend .net core Web API](https://github.com/reecore-coin/reecore-coin-mobile-wallet-api)
-
 ## Getting started
 
 * Download the Reecore apk
